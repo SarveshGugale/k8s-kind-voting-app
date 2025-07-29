@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: notes-app
-        image: yourdockerhubusername/notes-app:latest
+        image: sarvesh01234/notes-app-k8s
         ports:
         - containerPort: 80
